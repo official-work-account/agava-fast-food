@@ -23,7 +23,7 @@ const products = [
   },
   {
     name: "Rice & Stew + Chicken",
-    image: "/images/rice-n-stew-n-fish4x3.jpg",
+    image: "/images/rice-n-stew-n-chicken4x3.jpg",
     description: "Rice & Stew with Chicken",
     brand: "Rice",
     category: "Food",

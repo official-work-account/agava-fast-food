@@ -29,7 +29,7 @@
 
 9. Create database for client in my account & seed starting data in database
 
-10. Create a render account for client in my account
+10. Publish to render in my account
 
 11. Change Logo & favicon
 

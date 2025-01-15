@@ -44,6 +44,7 @@ TO NOTE:
 
 - Each client should be treated as a new project with its own dedicated database on free module.
 - image aspect ratio: 4:3
+- image size: 640 x 510px || 640 x 480px
 
 Useful definitions:
 

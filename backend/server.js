@@ -11,7 +11,7 @@ import orderRoutes from "./routes/orderRoutes.js";
 import uploadRoutes from "./routes/uploadRoutes.js";
 import colors from "colors";
 import cors from "cors";
-const port = process.env.PORT || 8000;
+const port = process.env.PORT || 8500;
 
 connectDB(); // Note: connects to MongoDB from {import connectDB from "./config/db.js"}
 

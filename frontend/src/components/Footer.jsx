@@ -10,7 +10,7 @@ const Footer = () => {
           <Col className="text-center py-3">
             <p>Agava Fast Food &copy; {currentYear}</p>
             <p style={{ color: "", fontSize: "small" }}>
-              Developed by{" "}
+              Powered by{" "}
               <a href="https://innosoltechgh.com">Innosol Technologies</a>{" "}
             </p>
           </Col>
